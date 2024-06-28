@@ -14,7 +14,7 @@ This is a project submission for The Odin Project's NodeJS course for a basic in
     - localhost:8080/contact-me should take users to contact-me.html
     - 404.html should display any time the user tries to go to a page not listed above.
 
-## Note / Pseudocode
+## Notes
 
 - [create a web server](https://www.w3schools.com/nodejs/nodejs_http.asp#:~:text=Node.js%20as%20a%20Web%20Server) with HTTP module
 
