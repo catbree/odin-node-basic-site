@@ -1,6 +1,8 @@
 # NodeJs Basic Informational Site
 This is a project submission for The Odin Project's NodeJS course for a basic information website.
 
+Replit link: https://replit.com/@hoichengleung/odin-node-basic-site
+
 ## Assignment
 1. Make a project directory and create the following files inside that directory:
     - index.html
